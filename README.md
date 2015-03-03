@@ -1,1 +1,2 @@
 # CloudScript
+CloudScript is a doctor/patient communication and prescription management web and mobile app that allows users to video chat and message with their doctor in real time and allows patients to fill prescriptions and have them delivered in under 90 minutes. We chose to develop the app with completely unfamiliar technologies including io.js, Node, Express, Angular, MongoDB,Firebase, WebRTC Gulp and AWS.
